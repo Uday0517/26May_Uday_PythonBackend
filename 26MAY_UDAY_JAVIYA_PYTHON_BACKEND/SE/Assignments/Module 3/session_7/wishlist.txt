@@ -1,0 +1,3 @@
+ball,40
+gloves,400
+watch,6000
